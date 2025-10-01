@@ -1,0 +1,122 @@
+{
+    "K5027 TE Kiln channel temperature SH1": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 1200,
+        "order": 1,
+        "target": -1
+    },
+    "K5028 TE Kiln channel temperarute SH2": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 1200,
+        "order": 2,
+        "target": -1
+    },
+    "K5026 TE1 Kiln temperature (Pyrometer 1)": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 300,
+        "Max": 2000,
+        "order": 3,
+        "target": -1
+    },
+    "K5026 TE2 Kiln temperature (Pyrometer 2)": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 300,
+        "Max": 2000,
+        "order": 4,
+        "target": -1
+    },
+    "K5001AC Combustion Air Blower actual speed [rpm]": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 2094,
+        "order": 5,
+        "target": -1
+    },
+    "K5351AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 6,
+        "target": -1
+    },
+    "K5352AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 7,
+        "target": -1
+    },
+    "K5353AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 8,
+        "target": -1
+    },
+    "K5354AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 9,
+        "target": -1
+    },
+    "K5355AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 10,
+        "target": -1
+    },
+    "K5356AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 11,
+        "target": -1
+    },
+    "K5357AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 12,
+        "target": -1
+    },
+    "K5358AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 13,
+        "target": -1
+    },
+    "K5359AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 14,
+        "target": -1
+    },
+    "K5360AC Rotary valve speed %": {
+        "Lower": 0.9,
+        "Higher": 1.1,
+        "Min": 0,
+        "Max": 100,
+        "order": 15,
+        "target": -1
+    }
+}

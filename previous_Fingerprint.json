@@ -1,0 +1,1559 @@
+{
+    "data": [
+        {
+            "CaO (%)": 88.67119170911414,
+            "actions": {
+                "control": [
+                    {
+                        "current_setpoint": 1461.67,
+                        "fingerprint_set_point": 1480.71,
+                        "percentage": 100,
+                        "units": "rpm",
+                        "var_name": "K5001AC Combustion Air Blower actual speed [rpm]"
+                    },
+                    {
+                        "current_setpoint": 195.235,
+                        "fingerprint_set_point": 204.974,
+                        "percentage": 100,
+                        "units": "kg",
+                        "var_name": "Coal fuel counter actual [kg]"
+                    },
+                    {
+                        "current_setpoint": 39.0,
+                        "fingerprint_set_point": 40,
+                        "percentage": 100,
+                        "units": "kg",
+                        "var_name": "K5314 FIC Controller Output"
+                    },
+                    {
+                        "current_setpoint": 43.2861,
+                        "fingerprint_set_point": 44.397,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5351AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 50.6958,
+                        "fingerprint_set_point": 52.0019,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5352AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 51.8616,
+                        "fingerprint_set_point": 53.1982,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5353AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 47.9614,
+                        "fingerprint_set_point": 49.2004,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5354AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 35.4858,
+                        "fingerprint_set_point": 36.4014,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5355AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 31.5857,
+                        "fingerprint_set_point": 32.3975,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5356AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 51.8616,
+                        "fingerprint_set_point": 53.1982,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5357AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 50.6958,
+                        "fingerprint_set_point": 52.0019,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5358AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 50.6958,
+                        "fingerprint_set_point": 52.0019,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5359AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 52.2522,
+                        "fingerprint_set_point": 53.6011,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5360AC Rotary valve speed %"
+                    }
+                ],
+                "process": [
+                    {
+                        "current_setpoint": 992.708,
+                        "fingerprint_set_point": 996.875,
+                        "percentage": 100,
+                        "units": "C",
+                        "var_name": "K5027 TE Kiln channel temperature SH1"
+                    },
+                    {
+                        "current_setpoint": 1016.32,
+                        "fingerprint_set_point": 1017.01,
+                        "percentage": 100,
+                        "units": "C",
+                        "var_name": "K5028 TE Kiln channel temperarute SH2"
+                    },
+                    {
+                        "current_setpoint": 1044.73,
+                        "fingerprint_set_point": 1043.26,
+                        "percentage": 100,
+                        "units": "C",
+                        "var_name": "K5026 TE1 Kiln temperature (Pyrometer 1)"
+                    },
+                    {
+                        "current_setpoint": 1009.32,
+                        "fingerprint_set_point": 1026.53,
+                        "percentage": 100,
+                        "units": "C",
+                        "var_name": "K5026 TE2 Kiln temperature (Pyrometer 2)"
+                    },
+                    {
+                        "current_setpoint": 1461.67,
+                        "fingerprint_set_point": 1480.71,
+                        "percentage": 100,
+                        "units": "rpm",
+                        "var_name": "K5001AC Combustion Air Blower actual speed [rpm]"
+                    },
+                    {
+                        "current_setpoint": 195.235,
+                        "fingerprint_set_point": 204.974,
+                        "percentage": 100,
+                        "units": "kg",
+                        "var_name": "Coal fuel counter actual [kg]"
+                    },
+                    {
+                        "current_setpoint": 39.0,
+                        "fingerprint_set_point": 40,
+                        "percentage": 100,
+                        "units": "kg",
+                        "var_name": "K5314 FIC Controller Output"
+                    },
+                    {
+                        "current_setpoint": 43.2861,
+                        "fingerprint_set_point": 44.397,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5351AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 50.6958,
+                        "fingerprint_set_point": 52.0019,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5352AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 51.8616,
+                        "fingerprint_set_point": 53.1982,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5353AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 47.9614,
+                        "fingerprint_set_point": 49.2004,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5354AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 35.4858,
+                        "fingerprint_set_point": 36.4014,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5355AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 31.5857,
+                        "fingerprint_set_point": 32.3975,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5356AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 51.8616,
+                        "fingerprint_set_point": 53.1982,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5357AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 50.6958,
+                        "fingerprint_set_point": 52.0019,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5358AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 50.6958,
+                        "fingerprint_set_point": 52.0019,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5359AC Rotary valve speed %"
+                    },
+                    {
+                        "current_setpoint": 52.2522,
+                        "fingerprint_set_point": 53.6011,
+                        "percentage": 100,
+                        "units": "%",
+                        "var_name": "K5360AC Rotary valve speed %"
+                    }
+                ],
+                "summary": {
+                    "K5029 TE Kiln lance temperature SH1 (C)": 670.139,
+                    "K5030 TE Kiln lance temperature SH2 (C)": 829.722,
+                    "K5053 TE Lime discharge temp. SH1_1 (C)": 107.2,
+                    "K5054 TE Lime discharge temp. SH2_1 (C)": 124.6,
+                    "K5301 CO Bin Coal dust (ppm)": 0.0,
+                    "total_heat_consumption": 0
+                }
+            },
+            "actionsCount": 17,
+            "complete_Data": [
+                {
+                    "Coal fuel counter actual [kg]": [
+                        213.322,
+                        180.872,
+                        148.953,
+                        117.566,
+                        85.116,
+                        53.7295,
+                        21.279,
+                        17.5552,
+                        17.5552,
+                        386.214,
+                        354.827,
+                        322.377,
+                        290.99,
+                        259.072,
+                        226.621,
+                        204.974,
+                        171.72,
+                        139.557,
+                        106.848,
+                        74.1394,
+                        41.4309,
+                        23.4411,
+                        23.4411,
+                        411.038,
+                        382.145,
+                        349.437,
+                        316.183,
+                        284.019,
+                        250.766,
+                        218.602,
+                        185.894
+                    ],
+                    "K5001AC Combustion Air Blower actual speed [rpm]": [
+                        1444.8,
+                        1453.23,
+                        1445.06,
+                        1451.44,
+                        1450.55,
+                        1452.98,
+                        1458.09,
+                        1407.74,
+                        1406.97,
+                        1401.47,
+                        1441.73,
+                        1446.46,
+                        1446.08,
+                        1451.83,
+                        1452.08,
+                        1480.71,
+                        1483.4,
+                        1477.26,
+                        1480.97,
+                        1488.12,
+                        1490.68,
+                        1478.54,
+                        1442.75,
+                        1441.99,
+                        1450.68,
+                        1462.44,
+                        1464.35,
+                        1470.1,
+                        1463.84,
+                        1462.95,
+                        1463.71
+                    ],
+                    "K5026 TE1 Kiln temperature (Pyrometer 1)": [
+                        1041.29,
+                        1049.65,
+                        1043.26,
+                        1045.23,
+                        1042.77,
+                        1023.58,
+                        1014.24,
+                        987.182,
+                        983.247,
+                        997.02,
+                        1006.37,
+                        1037.35,
+                        1043.26,
+                        1050.15,
+                        1044.73,
+                        1043.26,
+                        1055.06,
+                        1037.35,
+                        1026.04,
+                        1035.39,
+                        1026.53,
+                        1015.22,
+                        969.965,
+                        978.328,
+                        993.576,
+                        990.625,
+                        998.495,
+                        1003.91,
+                        1010.79,
+                        1007.84,
+                        1000.96
+                    ],
+                    "K5026 TE2 Kiln temperature (Pyrometer 2)": [
+                        1006.86,
+                        1034.9,
+                        1004.4,
+                        1032.93,
+                        1005.87,
+                        997.02,
+                        993.576,
+                        967.506,
+                        963.571,
+                        973.409,
+                        978.328,
+                        997.02,
+                        1016.7,
+                        1026.53,
+                        1017.68,
+                        1026.53,
+                        1021.61,
+                        1020.63,
+                        1016.7,
+                        1022.6,
+                        1011.28,
+                        994.068,
+                        968.982,
+                        971.441,
+                        988.657,
+                        998.495,
+                        1015.71,
+                        1026.04,
+                        1009.32,
+                        1006.37,
+                        1012.76
+                    ],
+                    "K5027 TE Kiln channel temperature SH1": [
+                        990.972,
+                        991.319,
+                        991.667,
+                        992.014,
+                        993.055,
+                        993.403,
+                        994.792,
+                        995.139,
+                        994.792,
+                        994.792,
+                        994.444,
+                        993.75,
+                        993.403,
+                        993.055,
+                        992.708,
+                        996.875,
+                        997.222,
+                        996.875,
+                        996.875,
+                        996.528,
+                        996.875,
+                        996.528,
+                        996.18,
+                        995.486,
+                        995.486,
+                        995.139,
+                        994.792,
+                        994.792,
+                        994.792,
+                        995.139,
+                        996.18
+                    ],
+                    "K5028 TE Kiln channel temperarute SH2": [
+                        1018.75,
+                        1019.44,
+                        1021.53,
+                        1021.53,
+                        1021.18,
+                        1021.53,
+                        1019.79,
+                        1017.36,
+                        1013.89,
+                        1012.15,
+                        1011.81,
+                        1012.15,
+                        1014.58,
+                        1015.97,
+                        1015.97,
+                        1017.01,
+                        1017.01,
+                        1017.36,
+                        1018.06,
+                        1018.75,
+                        1019.1,
+                        1017.71,
+                        1014.58,
+                        1010.76,
+                        1009.03,
+                        1007.64,
+                        1005.9,
+                        1005.56,
+                        1005.9,
+                        1006.6,
+                        1007.64
+                    ],
+                    "K5314 FIC Controller Output": [
+                        48,
+                        48,
+                        48,
+                        48,
+                        48,
+                        39,
+                        39,
+                        39,
+                        39,
+                        39,
+                        39,
+                        39,
+                        39,
+                        39,
+                        39,
+                        40,
+                        40,
+                        40,
+                        40,
+                        40,
+                        40,
+                        40,
+                        40,
+                        48,
+                        48,
+                        48,
+                        48,
+                        48,
+                        48,
+                        48,
+                        48
+                    ],
+                    "K5351AC Rotary valve speed %": [
+                        40.3137,
+                        40.3137,
+                        40.3137,
+                        40.3137,
+                        40.3137,
+                        32.7576,
+                        32.7576,
+                        0,
+                        0,
+                        43.2861,
+                        43.2861,
+                        43.2861,
+                        43.2861,
+                        43.2861,
+                        43.2861,
+                        44.397,
+                        44.397,
+                        44.397,
+                        44.397,
+                        44.397,
+                        44.397,
+                        0,
+                        0,
+                        0,
+                        40.3137,
+                        40.3137,
+                        40.3137,
+                        40.3137,
+                        40.3137,
+                        40.3137,
+                        40.3137
+                    ],
+                    "K5352AC Rotary valve speed %": [
+                        50.8728,
+                        50.8728,
+                        50.8728,
+                        50.8728,
+                        50.8728,
+                        41.3391,
+                        41.3391,
+                        0,
+                        0,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        0,
+                        0,
+                        0,
+                        50.8728,
+                        50.8728,
+                        50.8728,
+                        50.8728,
+                        50.8728,
+                        50.8728,
+                        50.8728
+                    ],
+                    "K5353AC Rotary valve speed %": [
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        47.9675,
+                        47.9675,
+                        0,
+                        0,
+                        51.8616,
+                        51.8616,
+                        51.8616,
+                        51.8616,
+                        51.8616,
+                        51.8616,
+                        53.1982,
+                        53.1982,
+                        53.1982,
+                        53.1982,
+                        53.1982,
+                        53.1982,
+                        0,
+                        0,
+                        0,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332
+                    ],
+                    "K5354AC Rotary valve speed %": [
+                        60.4736,
+                        60.4736,
+                        60.4736,
+                        60.4736,
+                        60.4736,
+                        49.1394,
+                        49.1394,
+                        0,
+                        0,
+                        47.9614,
+                        47.9614,
+                        47.9614,
+                        47.9614,
+                        47.9614,
+                        47.9614,
+                        49.2004,
+                        49.2004,
+                        49.2004,
+                        49.2004,
+                        49.2004,
+                        49.2004,
+                        0,
+                        0,
+                        0,
+                        60.4736,
+                        60.4736,
+                        60.4736,
+                        60.4736,
+                        60.4736,
+                        60.4736,
+                        60.4736
+                    ],
+                    "K5355AC Rotary valve speed %": [
+                        37.915,
+                        37.915,
+                        37.915,
+                        37.915,
+                        37.915,
+                        30.8106,
+                        30.8106,
+                        0,
+                        0,
+                        35.4858,
+                        35.4858,
+                        35.4858,
+                        35.4858,
+                        35.4858,
+                        35.4858,
+                        36.4014,
+                        36.4014,
+                        36.4014,
+                        36.4014,
+                        36.4014,
+                        36.4014,
+                        0,
+                        0,
+                        0,
+                        37.915,
+                        37.915,
+                        37.915,
+                        37.915,
+                        37.915,
+                        37.915,
+                        37.915
+                    ],
+                    "K5356AC Rotary valve speed %": [
+                        35.9924,
+                        35.9924,
+                        35.9924,
+                        35.9924,
+                        35.9924,
+                        29.2481,
+                        29.2481,
+                        0,
+                        0,
+                        31.5857,
+                        31.5857,
+                        31.5857,
+                        31.5857,
+                        31.5857,
+                        31.5857,
+                        32.3975,
+                        32.3975,
+                        32.3975,
+                        32.3975,
+                        32.3975,
+                        32.3975,
+                        0,
+                        0,
+                        0,
+                        35.9924,
+                        35.9924,
+                        35.9924,
+                        35.9924,
+                        35.9924,
+                        35.9924,
+                        35.9924
+                    ],
+                    "K5357AC Rotary valve speed %": [
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        47.9675,
+                        47.9675,
+                        0,
+                        0,
+                        51.8616,
+                        51.8616,
+                        51.8616,
+                        51.8616,
+                        51.8616,
+                        51.8616,
+                        53.1982,
+                        53.1982,
+                        53.1982,
+                        53.1982,
+                        53.1982,
+                        53.1982,
+                        0,
+                        0,
+                        0,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332,
+                        59.0332
+                    ],
+                    "K5358AC Rotary valve speed %": [
+                        44.1528,
+                        44.1528,
+                        44.1528,
+                        44.1528,
+                        44.1528,
+                        35.8826,
+                        35.8826,
+                        0,
+                        0,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        0,
+                        0,
+                        0,
+                        44.1528,
+                        44.1528,
+                        44.1528,
+                        44.1528,
+                        44.1528,
+                        44.1528,
+                        44.1528
+                    ],
+                    "K5359AC Rotary valve speed %": [
+                        44.635,
+                        44.635,
+                        44.635,
+                        44.635,
+                        44.635,
+                        36.2671,
+                        36.2671,
+                        0,
+                        0,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        50.6958,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        52.0019,
+                        0,
+                        0,
+                        0,
+                        44.635,
+                        44.635,
+                        44.635,
+                        44.635,
+                        44.635,
+                        44.635,
+                        44.635
+                    ],
+                    "K5360AC Rotary valve speed %": [
+                        57.5928,
+                        57.5928,
+                        57.5928,
+                        57.5928,
+                        57.5928,
+                        46.8018,
+                        46.8018,
+                        0,
+                        0,
+                        52.2522,
+                        52.2522,
+                        52.2522,
+                        52.2522,
+                        52.2522,
+                        52.2522,
+                        53.6011,
+                        53.6011,
+                        53.6011,
+                        53.6011,
+                        53.6011,
+                        53.6011,
+                        0,
+                        0,
+                        0,
+                        57.5928,
+                        57.5928,
+                        57.5928,
+                        57.5928,
+                        57.5928,
+                        57.5928,
+                        57.5928
+                    ],
+                    "timestamp": [
+                        "2025-09-30 03:07:25",
+                        "2025-09-30 03:08:25",
+                        "2025-09-30 03:09:25",
+                        "2025-09-30 03:10:25",
+                        "2025-09-30 03:11:25",
+                        "2025-09-30 03:12:25",
+                        "2025-09-30 03:13:25",
+                        "2025-09-30 03:14:25",
+                        "2025-09-30 03:15:25",
+                        "2025-09-30 03:16:25",
+                        "2025-09-30 03:17:25",
+                        "2025-09-30 03:18:25",
+                        "2025-09-30 03:19:25",
+                        "2025-09-30 03:20:25",
+                        "2025-09-30 03:21:25",
+                        "2025-09-30 03:22:25",
+                        "2025-09-30 03:23:25",
+                        "2025-09-30 03:24:25",
+                        "2025-09-30 03:25:25",
+                        "2025-09-30 03:26:25",
+                        "2025-09-30 03:27:25",
+                        "2025-09-30 03:28:25",
+                        "2025-09-30 03:29:25",
+                        "2025-09-30 03:30:25",
+                        "2025-09-30 03:31:25",
+                        "2025-09-30 03:32:25",
+                        "2025-09-30 03:33:25",
+                        "2025-09-30 03:34:25",
+                        "2025-09-30 03:35:25",
+                        "2025-09-30 03:36:25",
+                        "2025-09-30 03:37:25"
+                    ]
+                }
+            ],
+            "current_timestamp": "2025-04-21 15:00:00",
+            "fingerprint_Found": "True",
+            "fingerprint_future": [
+                {
+                    "Coal fuel counter actual [kg]": [
+                        41.4309
+                    ],
+                    "K5001AC Combustion Air Blower actual speed [rpm]": [
+                        1490.68
+                    ],
+                    "K5026 TE1 Kiln temperature (Pyrometer 1)": [
+                        1026.53
+                    ],
+                    "K5026 TE2 Kiln temperature (Pyrometer 2)": [
+                        1011.28
+                    ],
+                    "K5027 TE Kiln channel temperature SH1": [
+                        996.875
+                    ],
+                    "K5028 TE Kiln channel temperarute SH2": [
+                        1019.1
+                    ],
+                    "K5314 FIC Controller Output": [
+                        40
+                    ],
+                    "K5351AC Rotary valve speed %": [
+                        44.397
+                    ],
+                    "K5352AC Rotary valve speed %": [
+                        52.0019
+                    ],
+                    "K5353AC Rotary valve speed %": [
+                        53.1982
+                    ],
+                    "K5354AC Rotary valve speed %": [
+                        49.2004
+                    ],
+                    "K5355AC Rotary valve speed %": [
+                        36.4014
+                    ],
+                    "K5356AC Rotary valve speed %": [
+                        32.3975
+                    ],
+                    "K5357AC Rotary valve speed %": [
+                        53.1982
+                    ],
+                    "K5358AC Rotary valve speed %": [
+                        52.0019
+                    ],
+                    "K5359AC Rotary valve speed %": [
+                        52.0019
+                    ],
+                    "K5360AC Rotary valve speed %": [
+                        53.6011
+                    ],
+                    "timestamp": [
+                        "2025-09-30 03:27:25"
+                    ]
+                },
+                {
+                    "Coal fuel counter actual [kg]": [
+                        349.437
+                    ],
+                    "K5001AC Combustion Air Blower actual speed [rpm]": [
+                        1462.44
+                    ],
+                    "K5026 TE1 Kiln temperature (Pyrometer 1)": [
+                        990.625
+                    ],
+                    "K5026 TE2 Kiln temperature (Pyrometer 2)": [
+                        998.495
+                    ],
+                    "K5027 TE Kiln channel temperature SH1": [
+                        995.139
+                    ],
+                    "K5028 TE Kiln channel temperarute SH2": [
+                        1007.64
+                    ],
+                    "K5314 FIC Controller Output": [
+                        48
+                    ],
+                    "K5351AC Rotary valve speed %": [
+                        40.3137
+                    ],
+                    "K5352AC Rotary valve speed %": [
+                        50.8728
+                    ],
+                    "K5353AC Rotary valve speed %": [
+                        59.0332
+                    ],
+                    "K5354AC Rotary valve speed %": [
+                        60.4736
+                    ],
+                    "K5355AC Rotary valve speed %": [
+                        37.915
+                    ],
+                    "K5356AC Rotary valve speed %": [
+                        35.9924
+                    ],
+                    "K5357AC Rotary valve speed %": [
+                        59.0332
+                    ],
+                    "K5358AC Rotary valve speed %": [
+                        44.1528
+                    ],
+                    "K5359AC Rotary valve speed %": [
+                        44.635
+                    ],
+                    "K5360AC Rotary valve speed %": [
+                        57.5928
+                    ],
+                    "timestamp": [
+                        "2025-09-30 03:32:25"
+                    ]
+                },
+                {
+                    "Coal fuel counter actual [kg]": [
+                        185.894
+                    ],
+                    "K5001AC Combustion Air Blower actual speed [rpm]": [
+                        1463.71
+                    ],
+                    "K5026 TE1 Kiln temperature (Pyrometer 1)": [
+                        1000.96
+                    ],
+                    "K5026 TE2 Kiln temperature (Pyrometer 2)": [
+                        1012.76
+                    ],
+                    "K5027 TE Kiln channel temperature SH1": [
+                        996.18
+                    ],
+                    "K5028 TE Kiln channel temperarute SH2": [
+                        1007.64
+                    ],
+                    "K5314 FIC Controller Output": [
+                        48
+                    ],
+                    "K5351AC Rotary valve speed %": [
+                        40.3137
+                    ],
+                    "K5352AC Rotary valve speed %": [
+                        50.8728
+                    ],
+                    "K5353AC Rotary valve speed %": [
+                        59.0332
+                    ],
+                    "K5354AC Rotary valve speed %": [
+                        60.4736
+                    ],
+                    "K5355AC Rotary valve speed %": [
+                        37.915
+                    ],
+                    "K5356AC Rotary valve speed %": [
+                        35.9924
+                    ],
+                    "K5357AC Rotary valve speed %": [
+                        59.0332
+                    ],
+                    "K5358AC Rotary valve speed %": [
+                        44.1528
+                    ],
+                    "K5359AC Rotary valve speed %": [
+                        44.635
+                    ],
+                    "K5360AC Rotary valve speed %": [
+                        57.5928
+                    ],
+                    "timestamp": [
+                        "2025-09-30 03:37:25"
+                    ]
+                }
+            ],
+            "fingerprint_timestamp": "2025-04-20 17:21:00",
+            "min_Max_total": 1,
+            "min_max_ranges": {
+                "CaO (%)": {
+                    "max": "95",
+                    "min": "80"
+                },
+                "Coal fuel counter actual [kg]": {
+                    "max": "500 ",
+                    "min": "0"
+                },
+                "K5001AC Combustion Air Blower actual speed [rpm]": {
+                    "max": "2094.0",
+                    "min": "0.0"
+                },
+                "K5026 TE1 Kiln temperature (Pyrometer 1)": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5026 TE1 Kiln temperature (Pyrometer 2)": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5027 TE Kiln channel temperature SH1": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5028 TE Kiln channel temperarute SH2": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5029 TE Kiln lance temperature SH1": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5029 TE Kiln lance temperature SH1 (C)": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5030 TE Kiln lance temperature SH2": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5030 TE Kiln lance temperature SH2 (C)": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5053 TE Lime discharge temp. SH1_1": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5053 TE Lime discharge temp. SH1_1 (C)": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5054 TE Lime discharge temp. SH2_1": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5054 TE Lime discharge temp. SH2_1 (C)": {
+                    "max": "1200",
+                    "min": "800"
+                },
+                "K5079 PT Cooling air pressure": {
+                    "max": "600",
+                    "min": "0"
+                },
+                "K5081 PT Lance cooling air pressure SH1": {
+                    "max": "1000",
+                    "min": "0"
+                },
+                "K5082 PT Lance cooling air pressure SH2": {
+                    "max": "1000",
+                    "min": "0"
+                },
+                "K5301 CO Bin Coal dust (ppm)": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5314 FIC Controller Output": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5351AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5352AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5353AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5354AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5355AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5356AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5357AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5358AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5359AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5360AC Rotary valve speed %": {
+                    "max": "100",
+                    "min": "0"
+                },
+                "K5700 PT WGF Inlet pressure": {
+                    "max": "50",
+                    "min": "-50"
+                },
+                "schaftpreselectionkiln2": {
+                    "max": "500",
+                    "min": "0"
+                },
+                "total_heat_consumption": {
+                    "max": "50",
+                    "min": "-50"
+                }
+            },
+            "parameter_changes": {
+                "deviation": {
+                    "K5001AC Combustion Air Blower actual speed [rpm]": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 2094,
+                        "Min": 0,
+                        "order": 5,
+                        "target": -1
+                    },
+                    "K5026 TE1 Kiln temperature (Pyrometer 1)": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 2000,
+                        "Min": 300,
+                        "order": 3,
+                        "target": -1
+                    },
+                    "K5026 TE2 Kiln temperature (Pyrometer 2)": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 2000,
+                        "Min": 300,
+                        "order": 4,
+                        "target": -1
+                    },
+                    "K5027 TE Kiln channel temperature SH1": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 1200,
+                        "Min": 0,
+                        "order": 1,
+                        "target": -1
+                    },
+                    "K5028 TE Kiln channel temperarute SH2": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 1200,
+                        "Min": 0,
+                        "order": 2,
+                        "target": -1
+                    },
+                    "K5351AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 6,
+                        "target": -1
+                    },
+                    "K5352AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 7,
+                        "target": -1
+                    },
+                    "K5353AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 8,
+                        "target": -1
+                    },
+                    "K5354AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 9,
+                        "target": -1
+                    },
+                    "K5355AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 10,
+                        "target": -1
+                    },
+                    "K5356AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 11,
+                        "target": -1
+                    },
+                    "K5357AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 12,
+                        "target": -1
+                    },
+                    "K5358AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 13,
+                        "target": -1
+                    },
+                    "K5359AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 14,
+                        "target": -1
+                    },
+                    "K5360AC Rotary valve speed %": {
+                        "Higher": 110,
+                        "Lower": 90,
+                        "Max": 100,
+                        "Min": 0,
+                        "order": 15,
+                        "target": -1
+                    }
+                },
+                "future_Time": 15,
+                "previous_Time": 15
+            },
+            "past_Data": [
+                {
+                    "Coal fuel counter actual [kg]": [
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649,
+                        231.649
+                    ],
+                    "K5001AC Combustion Air Blower actual speed [rpm]": [
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76,
+                        1448.76
+                    ],
+                    "K5026 TE1 Kiln temperature (Pyrometer 1)": [
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6,
+                        1022.6
+                    ],
+                    "K5026 TE2 Kiln temperature (Pyrometer 2)": [
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86,
+                        1006.86
+                    ],
+                    "K5027 TE Kiln channel temperature SH1": [
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055,
+                        993.055
+                    ],
+                    "K5028 TE Kiln channel temperarute SH2": [
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653,
+                        999.653
+                    ],
+                    "K5314 FIC Controller Output": [
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51,
+                        51
+                    ],
+                    "K5351AC Rotary valve speed %": [
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411,
+                        43.3411
+                    ],
+                    "K5352AC Rotary valve speed %": [
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654,
+                        54.5654
+                    ],
+                    "K5353AC Rotary valve speed %": [
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324,
+                        63.2324
+                    ],
+                    "K5354AC Rotary valve speed %": [
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644,
+                        64.7644
+                    ],
+                    "K5355AC Rotary valve speed %": [
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959,
+                        40.7959
+                    ],
+                    "K5356AC Rotary valve speed %": [
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446,
+                        38.2446
+                    ],
+                    "K5357AC Rotary valve speed %": [
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131,
+                        62.2131
+                    ],
+                    "K5358AC Rotary valve speed %": [
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405,
+                        46.405
+                    ],
+                    "K5359AC Rotary valve speed %": [
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116,
+                        46.9116
+                    ],
+                    "K5360AC Rotary valve speed %": [
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939,
+                        61.1939
+                    ]
+                }
+            ],
+            "t_Minus_30_Total": 1,
+            "t_PLus_30_Total": 1
+        }
+    ]
+}
